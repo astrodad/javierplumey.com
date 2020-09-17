@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2020/09/16/dipping-my-toes.html",
+				
+				"content_html": "<p>Dipping my toes into the YouTube creator lifestyle. <a href=\"https://www.youtube.com/watch?v=Q_8-LWfJGFg\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Dipping my toes into the YouTube creator lifestyle. [www.youtube.com/watch](https://www.youtube.com/watch?v=Q_8-LWfJGFg)\n",
+				"date_published": "2020-09-16T22:53:25-04:00",
+				"url": "https://plumey.micro.blog/2020/09/16/dipping-my-toes.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/09/14/ive-largely-been.html",
+				
+				"content_html": "<p>I&rsquo;ve largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I&rsquo;m unhappy with the front runners. I guess it&rsquo;s time to dive a little deeper and figure out what to do&hellip;</p>\n",
+				"content_text": "I've largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I'm unhappy with the front runners. I guess it's time to dive a little deeper and figure out what to do...\n",
+				"date_published": "2020-09-14T10:59:34-04:00",
+				"url": "https://plumey.micro.blog/2020/09/14/ive-largely-been.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/09/12/enjoyed-an-evening.html",
+				
+				"content_html": "<p>Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!</p>\n\n<p><img src=\"uploads/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!\n\n<img src=\"uploads/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-12T22:37:27-04:00",
+				"url": "https://plumey.micro.blog/2020/09/12/enjoyed-an-evening.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/09/11/cuties-on-netflix.html",
+				"title": "Cuties on Netflix",
+				"content_html": "<p>🎦 After reading a few articles about &ldquo;Cuties&rdquo;, especially <a href=\"https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/\">this one from USA Today</a> where the author states &ldquo;&hellip;confronts the horrid reality of how accessible imagery and videos can negatively impact children.&rdquo; I think I just need to watch it and see what it&rsquo;s all about. The imagery is vile, but perhaps that&rsquo;s the point? I&rsquo;ll report back later.</p>\n",
+				"content_text": "🎦 After reading a few articles about \"Cuties\", especially [this one from USA Today](https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/) where the author states \"...confronts the horrid reality of how accessible imagery and videos can negatively impact children.\" I think I just need to watch it and see what it's all about. The imagery is vile, but perhaps that's the point? I'll report back later. \n",
+				"date_published": "2020-09-11T09:19:36-04:00",
+				"url": "https://plumey.micro.blog/2020/09/11/cuties-on-netflix.html",
+				"tags": ["media"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/09/10/havent-read-dune.html",
+				
+				"content_html": "<p>📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read.</p>\n",
+				"content_text": "📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read. \n",
+				"date_published": "2020-09-10T07:53:12-04:00",
+				"url": "https://plumey.micro.blog/2020/09/10/havent-read-dune.html",
+				"tags": ["media"]
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/09/08/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo.</p>\n",
+				"content_text": "I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo. \n",
+				"date_published": "2020-09-08T20:56:16-04:00",
+				"url": "https://plumey.micro.blog/2020/09/08/i-wonder-if.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2020/09/08/played-hooky-and.html",
 				
 				"content_html": "<p>Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum</p>\n\n<p><a href=\"https://plumey.micro.blog/uploads/2020/b13ab68faa.jpg\"><img src=\"uploads/2020/b13ab68faa.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://plumey.micro.blog/uploads/2020/1b1536fccd.jpg\"><img src=\"uploads/2020/1b1536fccd.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
