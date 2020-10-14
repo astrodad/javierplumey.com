@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2020/10/13/had-a-political.html",
+				
+				"content_html": "<p>Had a political discussion with a friend, needed a little pick me up.</p>\n\n<p><img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Had a political discussion with a friend, needed a little pick me up.\n\n<img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-13T22:46:14-04:00",
+				"url": "https://plumey.micro.blog/2020/10/13/had-a-political.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2020/09/25/took-the-boy.html",
 				
 				"content_html": "<p>Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s.</p>\n\n<p><img src=\"uploads/2020/373383d75d.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
