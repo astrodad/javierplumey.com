@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2020/10/27/why-have-i.html",
+				
+				"content_html": "<p>Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face.</p>\n",
+				"content_text": "Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face. \n",
+				"date_published": "2020-10-27T07:29:30-04:00",
+				"url": "https://plumey.micro.blog/2020/10/27/why-have-i.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/10/14/learning-to-weed.html",
+				
+				"content_html": "<p>Learning to weed out fake product reviews it’s not a skill my dad had to teach me.</p>\n",
+				"content_text": "Learning to weed out fake product reviews it’s not a skill my dad had to teach me.\n",
+				"date_published": "2020-10-14T07:20:52-04:00",
+				"url": "https://plumey.micro.blog/2020/10/14/learning-to-weed.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2020/10/13/had-a-political.html",
 				
 				"content_html": "<p>Had a political discussion with a friend, needed a little pick me up.</p>\n\n<p><img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
