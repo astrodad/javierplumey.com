@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2020/12/01/rip-ben-bova.html",
+				
+				"content_html": "<p>RIP Ben Bova. Your words inspired me to read as a child and to write as an adult.</p>\n",
+				"content_text": "RIP Ben Bova. Your words inspired me to read as a child and to write as an adult. \n",
+				"date_published": "2020-12-01T08:33:33-04:00",
+				"url": "https://plumey.micro.blog/2020/12/01/rip-ben-bova.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/10/31/we-did-it.html",
+				
+				"content_html": "<p>We did it! Get out there and vote!</p>\n\n<p><img src=\"uploads/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "We did it! Get out there and vote!\n\n<img src=\"uploads/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-31T11:50:10-04:00",
+				"url": "https://plumey.micro.blog/2020/10/31/we-did-it.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2020/10/27/why-have-i.html",
 				
 				"content_html": "<p>Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face.</p>\n",
