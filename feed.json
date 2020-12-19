@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://plumey.micro.blog/2020/12/19/holy-hot-underpants.html",
+				
+				"content_html": "<p>Holy hot underpants! Women’s underwear is HOT when it comes out of the dryer.</p>\n",
+				"content_text": "Holy hot underpants! Women’s underwear is HOT when it comes out of the dryer. \n",
+				"date_published": "2020-12-19T12:23:08-05:00",
+				"url": "https://plumey.micro.blog/2020/12/19/holy-hot-underpants.html"
+			},
+			{
+				"id": "http://plumey.micro.blog/2020/12/05/just-vibin-tonight.html",
+				
+				"content_html": "<p>Just vibin’ tonight</p>\n\n<p><img src=\"uploads/2020/df43281dea.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Just vibin’ tonight\n\n<img src=\"uploads/2020/df43281dea.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-05T21:56:00-05:00",
+				"url": "https://plumey.micro.blog/2020/12/05/just-vibin-tonight.html"
+			},
+			{
 				"id": "http://plumey.micro.blog/2020/12/01/rip-ben-bova.html",
 				
 				"content_html": "<p>RIP Ben Bova. Your words inspired me to read as a child and to write as an adult.</p>\n",
 				"content_text": "RIP Ben Bova. Your words inspired me to read as a child and to write as an adult. \n",
-				"date_published": "2020-12-01T08:33:33-04:00",
+				"date_published": "2020-12-01T07:33:33-05:00",
 				"url": "https://plumey.micro.blog/2020/12/01/rip-ben-bova.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>We did it! Get out there and vote!</p>\n\n<p><img src=\"uploads/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "We did it! Get out there and vote!\n\n<img src=\"uploads/2020/08721ef9e6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2020-10-31T11:50:10-04:00",
+				"date_published": "2020-10-31T10:50:10-05:00",
 				"url": "https://plumey.micro.blog/2020/10/31/we-did-it.html"
 			},
 			{
@@ -27,7 +43,7 @@
 				
 				"content_html": "<p>Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face.</p>\n",
 				"content_text": "Why have I grown to hate the word “albeit”? There’s something about it that makes me want to smash it in the face. \n",
-				"date_published": "2020-10-27T07:29:30-04:00",
+				"date_published": "2020-10-27T06:29:30-05:00",
 				"url": "https://plumey.micro.blog/2020/10/27/why-have-i.html"
 			},
 			{
@@ -35,7 +51,7 @@
 				
 				"content_html": "<p>Learning to weed out fake product reviews it’s not a skill my dad had to teach me.</p>\n",
 				"content_text": "Learning to weed out fake product reviews it’s not a skill my dad had to teach me.\n",
-				"date_published": "2020-10-14T07:20:52-04:00",
+				"date_published": "2020-10-14T06:20:52-05:00",
 				"url": "https://plumey.micro.blog/2020/10/14/learning-to-weed.html"
 			},
 			{
@@ -43,7 +59,7 @@
 				
 				"content_html": "<p>Had a political discussion with a friend, needed a little pick me up.</p>\n\n<p><img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "Had a political discussion with a friend, needed a little pick me up.\n\n<img src=\"uploads/2020/be18fea220.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2020-10-13T22:46:14-04:00",
+				"date_published": "2020-10-13T21:46:14-05:00",
 				"url": "https://plumey.micro.blog/2020/10/13/had-a-political.html"
 			},
 			{
@@ -51,7 +67,7 @@
 				
 				"content_html": "<p>Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s.</p>\n\n<p><img src=\"uploads/2020/373383d75d.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "Took the boy to do some plane spotting on a dreary evening near BWI. With COVID keeping air traffic down it was mostly SWA 737 7-8s. \n\n<img src=\"uploads/2020/373383d75d.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2020-09-25T19:33:34-04:00",
+				"date_published": "2020-09-25T18:33:34-05:00",
 				"url": "https://plumey.micro.blog/2020/09/25/took-the-boy.html"
 			},
 			{
@@ -59,7 +75,7 @@
 				
 				"content_html": "<p>Dipping my toes into the YouTube creator lifestyle. <a href=\"https://www.youtube.com/watch?v=Q_8-LWfJGFg\">www.youtube.com/watch</a></p>\n",
 				"content_text": "Dipping my toes into the YouTube creator lifestyle. [www.youtube.com/watch](https://www.youtube.com/watch?v=Q_8-LWfJGFg)\n",
-				"date_published": "2020-09-16T22:53:25-04:00",
+				"date_published": "2020-09-16T21:53:25-05:00",
 				"url": "https://plumey.micro.blog/2020/09/16/dipping-my-toes.html"
 			},
 			{
@@ -67,7 +83,7 @@
 				
 				"content_html": "<p>I&rsquo;ve largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I&rsquo;m unhappy with the front runners. I guess it&rsquo;s time to dive a little deeper and figure out what to do&hellip;</p>\n",
 				"content_text": "I've largely been avoiding the decision on my presidential vote, mostly because I feel like the options are so limited and I'm unhappy with the front runners. I guess it's time to dive a little deeper and figure out what to do...\n",
-				"date_published": "2020-09-14T10:59:34-04:00",
+				"date_published": "2020-09-14T09:59:34-05:00",
 				"url": "https://plumey.micro.blog/2020/09/14/ive-largely-been.html"
 			},
 			{
@@ -75,7 +91,7 @@
 				
 				"content_html": "<p>Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!</p>\n\n<p><img src=\"uploads/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "Enjoyed an evening of outdoor dining and cupcakes to celebrate my son’s 11th baptism anniversary. Such a nice evening!\n\n<img src=\"uploads/2020/de766ecc96.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2020-09-12T22:37:27-04:00",
+				"date_published": "2020-09-12T21:37:27-05:00",
 				"url": "https://plumey.micro.blog/2020/09/12/enjoyed-an-evening.html"
 			},
 			{
@@ -83,7 +99,7 @@
 				"title": "Cuties on Netflix",
 				"content_html": "<p>🎦 After reading a few articles about &ldquo;Cuties&rdquo;, especially <a href=\"https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/\">this one from USA Today</a> where the author states &ldquo;&hellip;confronts the horrid reality of how accessible imagery and videos can negatively impact children.&rdquo; I think I just need to watch it and see what it&rsquo;s all about. The imagery is vile, but perhaps that&rsquo;s the point? I&rsquo;ll report back later.</p>\n",
 				"content_text": "🎦 After reading a few articles about \"Cuties\", especially [this one from USA Today](https://www.usatoday.com/story/entertainment/movies/2020/09/08/cuties-controversy-is-new-netflix-film-inappropriate/3451445001/) where the author states \"...confronts the horrid reality of how accessible imagery and videos can negatively impact children.\" I think I just need to watch it and see what it's all about. The imagery is vile, but perhaps that's the point? I'll report back later. \n",
-				"date_published": "2020-09-11T09:19:36-04:00",
+				"date_published": "2020-09-11T08:19:36-05:00",
 				"url": "https://plumey.micro.blog/2020/09/11/cuties-on-netflix.html",
 				"tags": ["media"]
 			},
@@ -92,7 +108,7 @@
 				
 				"content_html": "<p>📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read.</p>\n",
 				"content_text": "📚Haven’t read Dune in decades. Looks like I need to brush up on it and give it another read. \n",
-				"date_published": "2020-09-10T07:53:12-04:00",
+				"date_published": "2020-09-10T06:53:12-05:00",
 				"url": "https://plumey.micro.blog/2020/09/10/havent-read-dune.html",
 				"tags": ["media"]
 			},
@@ -101,7 +117,7 @@
 				
 				"content_html": "<p>I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo.</p>\n",
 				"content_text": "I wonder if there is any way to post to GitHub and have Micro.blog pull from the repo. \n",
-				"date_published": "2020-09-08T20:56:16-04:00",
+				"date_published": "2020-09-08T19:56:16-05:00",
 				"url": "https://plumey.micro.blog/2020/09/08/i-wonder-if.html"
 			},
 			{
@@ -109,7 +125,7 @@
 				
 				"content_html": "<p>Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum</p>\n\n<p><a href=\"https://plumey.micro.blog/uploads/2020/b13ab68faa.jpg\"><img src=\"uploads/2020/b13ab68faa.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://plumey.micro.blog/uploads/2020/1b1536fccd.jpg\"><img src=\"uploads/2020/1b1536fccd.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
 				"content_text": "Played hooky and spent the day on Friday with my son plane spotting and at the Air and Space museum\n\n<a href=\"https://plumey.micro.blog/uploads/2020/b13ab68faa.jpg\"><img src=\"uploads/2020/b13ab68faa.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://plumey.micro.blog/uploads/2020/1b1536fccd.jpg\"><img src=\"uploads/2020/1b1536fccd.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
-				"date_published": "2020-09-08T14:23:04-04:00",
+				"date_published": "2020-09-08T13:23:04-05:00",
 				"url": "https://plumey.micro.blog/2020/09/08/played-hooky-and.html"
 			},
 			{
@@ -117,7 +133,7 @@
 				
 				"content_html": "<p>💭 The problem with taking showers (for me), is that I walk out bursting with ideas. Is it because there are no distractions, the white noise of the water? I regularly have to add several things to my to-do list after a shower. Is it just me?</p>\n",
 				"content_text": "💭 The problem with taking showers (for me), is that I walk out bursting with ideas. Is it because there are no distractions, the white noise of the water? I regularly have to add several things to my to-do list after a shower. Is it just me?\n",
-				"date_published": "2020-09-03T22:19:02-04:00",
+				"date_published": "2020-09-03T21:19:02-05:00",
 				"url": "https://plumey.micro.blog/2020/09/03/the-problem-with.html"
 			},
 			{
@@ -125,7 +141,7 @@
 				
 				"content_html": "<p>There’s nothing wrong with a 43 year old man watching Supergirl is there? I don’t even consider it a guilty pleasure.</p>\n\n<p><a href=\"https://plumey.micro.blog/uploads/2020/6cfe6160e7.jpg\"><img src=\"uploads/2020/6cfe6160e7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
 				"content_text": "There’s nothing wrong with a 43 year old man watching Supergirl is there? I don’t even consider it a guilty pleasure. \n\n<a href=\"https://plumey.micro.blog/uploads/2020/6cfe6160e7.jpg\"><img src=\"uploads/2020/6cfe6160e7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-08-31T21:10:07-04:00",
+				"date_published": "2020-08-31T20:10:07-05:00",
 				"url": "https://plumey.micro.blog/2020/08/31/theres-nothing-wrong.html"
 			},
 			{
@@ -133,7 +149,7 @@
 				
 				"content_html": "<p>📖 I&rsquo;ve not read alot of mystery books, but I just completed The Murder at the Vicarage by Agatha Christie. I love the period and it has so many moving parts. I don&rsquo;t read alot of myster books, but I loved this one, and I&rsquo;m a sucker for the writing of the period. Any reccs?</p>\n",
 				"content_text": "📖 I've not read alot of mystery books, but I just completed The Murder at the Vicarage by Agatha Christie. I love the period and it has so many moving parts. I don't read alot of myster books, but I loved this one, and I'm a sucker for the writing of the period. Any reccs?\n",
-				"date_published": "2020-08-31T17:21:31-04:00",
+				"date_published": "2020-08-31T16:21:31-05:00",
 				"url": "https://plumey.micro.blog/2020/08/31/ive-not-read.html"
 			},
 			{
@@ -141,7 +157,7 @@
 				
 				"content_html": "<p>My son needed a new graphics card for the new Microsoft Flight simulator game so we picked up the GeForce GTX 1660 Super. He was terribly upset it only took about a minute to replace the older one. Made a huge difference but still can’t run the game at full quality. It’s crazy!</p>\n\n<p><img src=\"uploads/2020/1b16a734f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "My son needed a new graphics card for the new Microsoft Flight simulator game so we picked up the GeForce GTX 1660 Super. He was terribly upset it only took about a minute to replace the older one. Made a huge difference but still can’t run the game at full quality. It’s crazy!\n\n<img src=\"uploads/2020/1b16a734f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-30T22:54:53-04:00",
+				"date_published": "2020-08-30T21:54:53-05:00",
 				"url": "https://plumey.micro.blog/2020/08/30/my-son-needed.html"
 			},
 			{
@@ -149,7 +165,7 @@
 				
 				"content_html": "<p>Played a bit of scrabble with the little one. Our modified rules said you could use acronyms. Let me tell you, there is an acronym for EVERYTHING.  And yes, this is a very old Scrabble board. My family and I used to play together, and apparently my sister loved to doodle all over the box. I now know that she loved Duran Duran and that she rocks, evidently.</p>\n\n<p><a href=\"https://plumey.micro.blog/uploads/2020/a612582af7.jpg\"><img src=\"uploads/2020/a612582af7.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
 				"content_text": "Played a bit of scrabble with the little one. Our modified rules said you could use acronyms. Let me tell you, there is an acronym for EVERYTHING.  And yes, this is a very old Scrabble board. My family and I used to play together, and apparently my sister loved to doodle all over the box. I now know that she loved Duran Duran and that she rocks, evidently.\n\n<a href=\"https://plumey.micro.blog/uploads/2020/a612582af7.jpg\"><img src=\"uploads/2020/a612582af7.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-08-29T10:32:00-04:00",
+				"date_published": "2020-08-29T09:32:00-05:00",
 				"url": "https://plumey.micro.blog/2020/08/29/played-a-bit.html"
 			},
 			{
@@ -157,7 +173,7 @@
 				
 				"content_html": "<p>This is the quintissential &ldquo;hello world&rdquo; for the blogsphere. As much as I write on a regular basis for my work at Numinous.FM, my career work as a technical consultant, and my novels, I haven&rsquo;t regularly posted a blog. I hope to change that going forward, as well as start contributing to the IndieWeb culture. I&rsquo;m moving over from a Wordpress Blog, so things are a bit sparse here, but in time I hope to add more content.</p>\n",
 				"content_text": "This is the quintissential \"hello world\" for the blogsphere. As much as I write on a regular basis for my work at Numinous.FM, my career work as a technical consultant, and my novels, I haven't regularly posted a blog. I hope to change that going forward, as well as start contributing to the IndieWeb culture. I'm moving over from a Wordpress Blog, so things are a bit sparse here, but in time I hope to add more content.\n",
-				"date_published": "2020-08-29T09:36:00-04:00",
+				"date_published": "2020-08-29T08:36:00-05:00",
 				"url": "https://plumey.micro.blog/2020/08/29/this-is-the.html",
 				"tags": ["blog"]
 			},
@@ -166,7 +182,7 @@
 				"title": "Find any photo from the NASA Astronomy Picture of the Day Library",
 				"content_html": "<p>I just discovered this fantastic search engine for the NASA Astronomy Picture of the Day library. It&rsquo;s written by Stuart who runs the @apod twitter account and blogs at <a href=\"http://www.strudel.org.uk/blog/astro/\" target=\"_blank\"><a href=\"http://www.strudel.org.uk/blog/astro/\">http://www.strudel.org.uk/blog/astro/</a></a>. Stuart <a href=\"http://www.strudel.org.uk/blog/astro/001032.shtml\" target=\"_blank\">chronicles</a> why he wrote the search engine (spoiler: government shutdown) and goes a bit into some of the technical work to make it happen. He&rsquo;s also the man behind this excellent <a href=\"http://lcogt.net/virtualsky\" title=\"Virtual Sky HTML5 Planetarium\" target=\"_blank\">Virtual Sky HTML5 Planetarium</a>. If you&rsquo;re an astronomy nerd, Stuarts&rsquo;s web site ought to get your heart rate going.</p>\n\n<p>I&rsquo;m currently in the tail end of a writing project and I&rsquo;ve used the APOD search to get photo inspiration, descriptive support of astronomical objects in my story, and sadly, to procrastinate while dealing with writer&rsquo;s block. It&rsquo;s a great tool. Go check it out.</p>\n",
 				"content_text": "I just discovered this fantastic search engine for the NASA Astronomy Picture of the Day library. It's written by Stuart who runs the @apod twitter account and blogs at <a href=\"http://www.strudel.org.uk/blog/astro/\" target=\"_blank\">http://www.strudel.org.uk/blog/astro/</a>. Stuart <a href=\"http://www.strudel.org.uk/blog/astro/001032.shtml\" target=\"_blank\">chronicles</a> why he wrote the search engine (spoiler: government shutdown) and goes a bit into some of the technical work to make it happen. He's also the man behind this excellent <a href=\"http://lcogt.net/virtualsky\" title=\"Virtual Sky HTML5 Planetarium\" target=\"_blank\">Virtual Sky HTML5 Planetarium</a>. If you're an astronomy nerd, Stuarts's web site ought to get your heart rate going.\n\nI'm currently in the tail end of a writing project and I've used the APOD search to get photo inspiration, descriptive support of astronomical objects in my story, and sadly, to procrastinate while dealing with writer's block. It's a great tool. Go check it out.\n",
-				"date_published": "2013-10-29T10:34:19-04:00",
+				"date_published": "2013-10-29T09:34:19-05:00",
 				"url": "https://plumey.micro.blog/2013/10/29/find-any-photo.html"
 			},
 			{
@@ -174,7 +190,7 @@
 				"title": "3 options for documenting your story's universe",
 				"content_html": "<p><em>** Update 2013-10-25 to include nValt</em></p>\n\n<p>You&rsquo;ve spent months and months developing the backstory, characters, and places for your story. You&rsquo;ve obsessed over every detail. For instance you know that your main character loves pizza with anchovies but only on Tuesday and only when he&rsquo;s eating at home. You&rsquo;ve designed a planet where the terraforming process has left the swamps smelling like flatulence and the natives looking like glow-in-the-dark bobble heads.</p>\n\n<p>But now that you&rsquo;re deep in your writing you need to remember those details so that you don&rsquo;t send your hero running in the nausea-inducing forest of your terraformed planet without a gas mask. Where do you look? How are you storing this massive Tolkien-ish universe you&rsquo;ve built? Should you? Yes! Documenting your created universe so that you always have a place to reference your characters and settings.</p>\n\n<p>I&rsquo;m in the middle of writing a science fiction story for kids and I&rsquo;m struggling with the same question.  Here are my list of requirements:\n<ol>\n    <li><strong>I need a way to create relationships between items.</strong> If a character lives on a terraformed planet I should be able to link the character to the planet bidirectionally and list all of the characters of importance that also live on that planet.</li>\n    <li> <strong>I need a way to search across all items.</strong> This is a no-brainer. I remember vaguely that one of my characters had an obsession with peanut butter. But which one?</li>\n    <li><strong>I need to update my universe at any time no matter where I am.</strong> Like many of us, I&rsquo;m on the go quite a bit. So access to from my iPad, browser, and even in some offline capacity would be very useful.</li>\n    <li><strong>I need to eventually share my universe with a publisher/agent and with the public.</strong> Why would I want to expose my universe to the outside world? Because I eventually want to get published. Any tool that conveys the depth of my story will help me to get published (so I hope). Plus, I would love to eventually let fans explore the universe on their own and maybe even contribute to it based on what they&rsquo;ve read in the book(s).</li>\n    <li><strong>I need to display images, video, and audio.</strong> I document my universe using diagrams, photos, video clips, and even audio clippings (mostly from my commute to work). These content types should all be viewable within the library.</li>\n    <li><strong>I need to reference the library no matter where I am.</strong> This is the one requirement that is seemingly at odds with #3 and #4 above. I might need access while on a plane or while sitting at my son&rsquo;s basketball practice where there&rsquo;s no signal.</li>\n</ol>\n<h1>Option #1 - Build an actual Wiki</h1>\nWikis have been around for a long time. They&rsquo;re easy to edit and many of the newer wiki types let you embed video and audio. Creating links between documents is easy. Users can edit wikis themselves and you can even mark some hosted wikis as private if the wiki provider offers that feature. The problem with most wikis is that there is no offline access to them with the option to synch up changes you&rsquo;ve made while offline. I looked at <a href=\"http://flyingmeat.com/voodoopad/\" target=\"_blank\">Flying Meat&rsquo;s VoodooPad</a>  and it comes close. It offers a Web Export option that creates static HTML pages for your entire wiki. They even offer an iOS client that lets you edit files on the go if you use Dropbox to store your VooDooPad file. The software costs $40 but they do offer a free trial. I&rsquo;m currently evaluating this solution. My main question as of now is whether or not you can sync the entire wiki offline on the iOS client for viewing offline.\n<h1>Option #2 - Evernote</h1>\nIf you&rsquo;re into information management you&rsquo;ve already heard of Evernote. It&rsquo;s the uber note taking and digital collection platform that runs on the web, desktop, and mobile devices. I created an Evernote notebook and created notes for various characters. Then I linked them together by creating an index note with links to the individual notes. The process is cumbersome. Dragging and dropping on the desktop is easy, but editing the links between notes on their mobile devices is difficult. I did find some handy AppleScript code to automate this but it didn&rsquo;t work well and resulted in even more work for me.</p>\n\n<p>Evernote will let you share your notebooks to individuals or to the entire web using a Public Link. <a href=\"https://www.evernote.com/pub/jplumey/testuniversenotebook\" target=\"_blank\">Here&rsquo;s an example of this</a>. Notice the lack of any real organization, sorting, and hierarchy. If you have a Premium account you can sync the notes and notebooks offline to your devices. Sharing the notebook to the world is easy, but editing requires an Evernote account and explicitly granting permissions to the editor. This might be fine if you&rsquo;re working with an agent/publisher/editor but not ideal for the public.</p>\n\n<p>If you&rsquo;re already using Evernote to keep track of your universe while you&rsquo;re writing, this option might be a natural progression.</p>\n\n<p>So these are just two options that I&rsquo;m currently playing with. Are you a writer? Do you have similar requirements? What do you do? Please let me know in the comments.\n<h1> Option #3 - nValt</h1>\n<a href=\"http://brettterpstra.com/projects/nvalt/\">nValt</a> is a simple yet powerful note-taking software that allows you to create simple text notes using your keyboard. I like it because you can very quickly create new documents that link to each other. Just start typing a title, hit Enter and you have a text file. Once in you&rsquo;re in your text file, put something in brackets like this: [[Characters]], and nValt turns that into a link. Click the link, hit Enter, and you have your Characters document. No, it doesn&rsquo;t export easily and it doesn&rsquo;t support images or videos, but it has the option to save each note as a file which you can sync with Dropbox and thus edit on any device you want. I wish I could create notes and links this easily in Evernote. If you don&rsquo;t need images or video or any kind of rich text (although nValt does support Markdown), this might be a lightning-fast way to get your universe documented.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
 				"content_text": "<em>** Update 2013-10-25 to include nValt</em>\n\nYou've spent months and months developing the backstory, characters, and places for your story. You've obsessed over every detail. For instance you know that your main character loves pizza with anchovies but only on Tuesday and only when he's eating at home. You've designed a planet where the terraforming process has left the swamps smelling like flatulence and the natives looking like glow-in-the-dark bobble heads.\n\nBut now that you're deep in your writing you need to remember those details so that you don't send your hero running in the nausea-inducing forest of your terraformed planet without a gas mask. Where do you look? How are you storing this massive Tolkien-ish universe you've built? Should you? Yes! Documenting your created universe so that you always have a place to reference your characters and settings.\n\nI'm in the middle of writing a science fiction story for kids and I'm struggling with the same question.  Here are my list of requirements:\n<ol>\n\t<li><strong>I need a way to create relationships between items.</strong> If a character lives on a terraformed planet I should be able to link the character to the planet bidirectionally and list all of the characters of importance that also live on that planet.</li>\n\t<li> <strong>I need a way to search across all items.</strong> This is a no-brainer. I remember vaguely that one of my characters had an obsession with peanut butter. But which one?</li>\n\t<li><strong>I need to update my universe at any time no matter where I am.</strong> Like many of us, I'm on the go quite a bit. So access to from my iPad, browser, and even in some offline capacity would be very useful.</li>\n\t<li><strong>I need to eventually share my universe with a publisher/agent and with the public.</strong> Why would I want to expose my universe to the outside world? Because I eventually want to get published. Any tool that conveys the depth of my story will help me to get published (so I hope). Plus, I would love to eventually let fans explore the universe on their own and maybe even contribute to it based on what they've read in the book(s).</li>\n\t<li><strong>I need to display images, video, and audio.</strong> I document my universe using diagrams, photos, video clips, and even audio clippings (mostly from my commute to work). These content types should all be viewable within the library.</li>\n\t<li><strong>I need to reference the library no matter where I am.</strong> This is the one requirement that is seemingly at odds with #3 and #4 above. I might need access while on a plane or while sitting at my son's basketball practice where there's no signal.</li>\n</ol>\n<h1>Option #1 - Build an actual Wiki</h1>\nWikis have been around for a long time. They're easy to edit and many of the newer wiki types let you embed video and audio. Creating links between documents is easy. Users can edit wikis themselves and you can even mark some hosted wikis as private if the wiki provider offers that feature. The problem with most wikis is that there is no offline access to them with the option to synch up changes you've made while offline. I looked at <a href=\"http://flyingmeat.com/voodoopad/\" target=\"_blank\">Flying Meat's VoodooPad</a>  and it comes close. It offers a Web Export option that creates static HTML pages for your entire wiki. They even offer an iOS client that lets you edit files on the go if you use Dropbox to store your VooDooPad file. The software costs $40 but they do offer a free trial. I'm currently evaluating this solution. My main question as of now is whether or not you can sync the entire wiki offline on the iOS client for viewing offline.\n<h1>Option #2 - Evernote</h1>\nIf you're into information management you've already heard of Evernote. It's the uber note taking and digital collection platform that runs on the web, desktop, and mobile devices. I created an Evernote notebook and created notes for various characters. Then I linked them together by creating an index note with links to the individual notes. The process is cumbersome. Dragging and dropping on the desktop is easy, but editing the links between notes on their mobile devices is difficult. I did find some handy AppleScript code to automate this but it didn't work well and resulted in even more work for me.\n\nEvernote will let you share your notebooks to individuals or to the entire web using a Public Link. <a href=\"https://www.evernote.com/pub/jplumey/testuniversenotebook\" target=\"_blank\">Here's an example of this</a>. Notice the lack of any real organization, sorting, and hierarchy. If you have a Premium account you can sync the notes and notebooks offline to your devices. Sharing the notebook to the world is easy, but editing requires an Evernote account and explicitly granting permissions to the editor. This might be fine if you're working with an agent/publisher/editor but not ideal for the public.\n\nIf you're already using Evernote to keep track of your universe while you're writing, this option might be a natural progression.\n\nSo these are just two options that I'm currently playing with. Are you a writer? Do you have similar requirements? What do you do? Please let me know in the comments.\n<h1> Option #3 - nValt</h1>\n<a href=\"http://brettterpstra.com/projects/nvalt/\">nValt</a> is a simple yet powerful note-taking software that allows you to create simple text notes using your keyboard. I like it because you can very quickly create new documents that link to each other. Just start typing a title, hit Enter and you have a text file. Once in you're in your text file, put something in brackets like this: [[Characters]], and nValt turns that into a link. Click the link, hit Enter, and you have your Characters document. No, it doesn't export easily and it doesn't support images or videos, but it has the option to save each note as a file which you can sync with Dropbox and thus edit on any device you want. I wish I could create notes and links this easily in Evernote. If you don't need images or video or any kind of rich text (although nValt does support Markdown), this might be a lightning-fast way to get your universe documented.\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n",
-				"date_published": "2013-10-25T11:15:04-04:00",
+				"date_published": "2013-10-25T10:15:04-05:00",
 				"url": "https://plumey.micro.blog/2013/10/25/options-for-documenting.html"
 			}
 	]
